@@ -23,7 +23,7 @@ angular.module('responymous', ['ngAnimate', 'ngCookies', 'ngTouch', 'ui.router',
   })
   .constant('CONFIG', {
     Firebase: {
-      baseUrl: 'https://responymousdevdb.firebaseio.com'
+      baseUrl: 'https://blinding-torch-2436.firebaseio.com'
     }
   })
 ;
